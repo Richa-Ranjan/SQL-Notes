@@ -33,12 +33,10 @@ It is designed to provide quick access to important SQL concepts and serve as a 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Richa-Ranjan/SQL-Notes.git
-Navigate into the folder:
+2.Navigate into the repository folder:
+   cd SQL-Notes
+3.Open the .sql or .md files using your preferred code editor or IDE to review or run the examples.
 
-bash
-Copy code
-cd SQL-Notes
-Open the .sql or .md files with your preferred editor or IDE.
 
 
 Purpose:
