@@ -1,0 +1,4 @@
+SELECT TABLE_NAME, TABLE_TYPE
+FROM information_schema.TABLES
+WHERE TABLE_SCHEMA = 'ranjanricha'
+  AND LOWER(TABLE_NAME) = 'temp1';
