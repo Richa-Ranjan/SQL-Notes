@@ -1,7 +1,1 @@
-
-
-
-
-
-
 CREATE DATABASE college;
